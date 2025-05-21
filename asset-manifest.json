@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Huddle-Landing_Page/static/css/main.8c6664a6.css",
+    "main.js": "/Huddle-Landing_Page/static/js/main.b0728025.js",
+    "static/js/453.968fbccc.chunk.js": "/Huddle-Landing_Page/static/js/453.968fbccc.chunk.js",
+    "static/media/illustration-flowing-conversation.svg": "/Huddle-Landing_Page/static/media/illustration-flowing-conversation.447b9b47aef8c266f047e609cbf11004.svg",
+    "static/media/illustration-your-users.svg": "/Huddle-Landing_Page/static/media/illustration-your-users.c07ebfaafd557ff00fa41ee62081bcac.svg",
+    "static/media/illustration-grow-together.svg": "/Huddle-Landing_Page/static/media/illustration-grow-together.3c29212c7a9ccd6cccf0412e4b520833.svg",
+    "static/media/Group.svg": "/Huddle-Landing_Page/static/media/Group.5236cb30cd0e0dae1dd5ffb0f784a0f4.svg",
+    "static/media/logo.svg": "/Huddle-Landing_Page/static/media/logo.3c5a854404daac9e68209a04cf4dfbbe.svg",
+    "static/media/illustration-mockups.svg": "/Huddle-Landing_Page/static/media/illustration-mockups.7b6cb4d9270f53c0f45bbf842e8ce077.svg",
+    "static/media/bg-hero-desktop.svg": "/Huddle-Landing_Page/static/media/bg-hero-desktop.6f3681282137997079c4e3826fbb91b4.svg",
+    "index.html": "/Huddle-Landing_Page/index.html",
+    "static/media/icon-phone.svg": "/Huddle-Landing_Page/static/media/icon-phone.43c05d1a510cada2b8f305cbb2278ae4.svg",
+    "static/media/icon-location.svg": "/Huddle-Landing_Page/static/media/icon-location.a681f02d94e561498fa0781c3538edac.svg",
+    "static/media/icon-email.svg": "/Huddle-Landing_Page/static/media/icon-email.19ab894b09784943bec7e08b3e1344a3.svg",
+    "main.8c6664a6.css.map": "/Huddle-Landing_Page/static/css/main.8c6664a6.css.map",
+    "main.b0728025.js.map": "/Huddle-Landing_Page/static/js/main.b0728025.js.map",
+    "453.968fbccc.chunk.js.map": "/Huddle-Landing_Page/static/js/453.968fbccc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c6664a6.css",
+    "static/js/main.b0728025.js"
+  ]
+}
