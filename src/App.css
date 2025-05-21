@@ -1,0 +1,298 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+  height: 160rem;
+  width: 100%;
+  
+}
+.header {
+  height: 42rem;
+  width: 100%;
+  position: relative;
+  background-color: #edfbfe;
+}
+.header .logo {
+  position: absolute;
+  top: 3rem;
+  height: 1.80rem;
+  left: 4rem;
+}
+.header .btn {
+  position: absolute;
+  right: 4.40rem;
+  top: 2.50rem;
+  background: #ffffff;
+  padding-left: 46px;
+  padding-right: 46px;
+  font-size: 16px;
+  padding-top:10px;
+  font-weight: 500;
+  border-radius: 50px;
+  border: none;
+  outline: none;
+  padding-bottom: 10px;
+}
+.header .btn:hover {
+  cursor: pointer;
+  color: rgba(0, 0, 0, 0.5);
+}
+.header .bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 42rem;
+}
+.header .desk {
+  position: absolute;
+  top: 8.50rem;
+  right: 5rem;
+  height: 30rem;
+
+}
+.header .heading {
+  z-index: 5;
+ position: absolute;
+ top: 14rem;
+ font-weight: 500;
+ font-size: 36px;
+ left: 4rem;
+}
+.header .para {
+  z-index:5;
+  position: absolute;
+  top: 22rem;
+  left: 4rem;
+  line-height: 1.50rem;
+  color: rgba(0, 0, 0, 0.7);
+}
+.header .btn2 {
+  position: absolute;
+  left: 4rem;
+  top: 28.50rem;
+  z-index: 5;
+  padding-left: 26px;
+  text-align: center;
+  padding-right: 26px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  font-size:15px;
+  border-radius: 25px;
+  background-color: #fe52c0;
+  outline: none;
+  border: none;
+  font-weight: 500;
+  color: white;
+}
+.header .btn2:hover {
+  cursor: pointer;
+  background-color: hsl(322, 72%, 70%);
+  color: rgba(255, 255, 255, 0.8);
+}
+.card1 {
+  position: absolute;
+  left:5.50rem;
+  top: 51rem;
+  height: 26rem;
+  border-radius: 18px;
+  width: 74rem;
+  z-index: 5;
+  background-color:#ffffff;
+  box-shadow: 0.50px 0.50px 8px 0.50px rgba(0, 0, 0, 0.1);
+}
+.card1 .heading {
+  position: absolute;
+  left: 8rem;
+  top: 9rem;
+  font-size: 24px;
+}
+.card1 .para {
+  position: absolute;
+  top: 12rem;
+  color: rgba(0, 0, 0, 0.7);
+  line-height: 1.50rem;
+  left: 8rem;
+
+}
+.card1 .peo {
+  position: absolute;
+  right: 3rem;
+  top: 3rem;
+  height: 20rem;
+}
+.card2 {
+  position: absolute;
+  left:5.50rem;
+  top: 80rem;
+  height: 26rem;
+  border-radius: 18px;
+  width: 74rem;
+  z-index: 5;
+  background-color:#ffffff;
+  box-shadow: 0.50px 0.50px 8px 0.50px rgba(0, 0, 0, 0.1);
+}
+.card2 .heading {
+  position: absolute;
+  right: 13rem;
+  top: 9rem;
+  font-size: 24px;
+}
+.card2 .para {
+  position: absolute;
+  top: 12rem;
+  color: rgba(0, 0, 0, 0.7);
+  line-height: 1.50rem;
+  right: 2rem;
+
+}
+.card2 .peo {
+  position: absolute;
+  left: 6rem;
+  top: 3rem;
+  height: 20rem;
+}
+.card3 {
+  position: absolute;
+  left:5.50rem;
+  top: 109rem;
+  height: 26rem;
+  border-radius: 18px;
+  width: 74rem;
+  z-index: 5;
+  background-color:#ffffff;
+  box-shadow: 0.50px 0.50px 8px 0.50px rgba(0, 0, 0, 0.1);
+}
+.card3 .heading {
+  position: absolute;
+  left: 8rem;
+  top: 9rem;
+  font-size: 24px;
+}
+.card3 .para {
+  position: absolute;
+  top: 12rem;
+  color: rgba(0, 0, 0, 0.7);
+  line-height: 1.50rem;
+  left: 8rem;
+
+}
+.card3 .peo {
+  position: absolute;
+  right: 3rem;
+  top: 3rem;
+  height: 20rem;
+}
+.card4 {
+  position: absolute;
+  top: 144rem;
+  border-radius: 25px;
+  left: 17rem;
+  z-index: 5;
+  height: 18rem;
+  width: 50rem;
+  box-shadow: 0.50px 0.50px 9px 0.50px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
+}
+.card4 .heading {
+  position: absolute;
+  left: 8rem;
+  top: 5rem;
+}
+.card4 .btn {
+  position: absolute;
+  left: 16rem;
+  top: 11rem;
+  padding-left: 28px;
+  padding-right: 28px;
+  padding-top: 14px;
+  background-color: #fe52c0;
+  outline: none;
+  border: none; 
+
+  padding-bottom: 14px;
+  color:white;
+  font-size: 20px;
+  border-radius: 50px;
+  font-weight: 500;
+
+}
+.card4 .btn:hover {
+  cursor: pointer;
+  background-color: hsl(322, 72%, 70%);
+  color: rgba(255, 255, 255, 0.8);
+}
+.footer {
+  position: absolute;
+  top: 156.50rem;
+  left: 0;
+  width: 100%;
+  height: 32rem;
+  background-color: #00252e;
+}
+.footer .logo {
+  position: absolute;
+  top: 11rem;
+  left: 5rem;
+}
+.footer .para {
+  position: absolute;
+  left: 7rem;
+  top: 16rem;
+  color: white;
+
+}
+.footer .detail {
+  position: absolute;
+  left: 7rem;
+  top: 21rem;
+  color: white;
+  line-height: 2rem;
+  list-style: none;
+}
+.footer .detail .loc2 {
+  margin-top: 18px;
+}
+.footer .icons {
+   display: flex;
+   flex-direction: column;
+   position: absolute;
+   top: 17rem;
+   left: 4rem;
+   gap: 30px;
+}
+.footer .icons img {
+  height: 1.30rem;
+  width: 1.30rem;
+}
+.footer .icons .loc {
+  margin-bottom: 20px;
+}
+.footer .list {
+   display: flex;
+   gap: 20px;
+   position: absolute;
+   top: 16rem;
+   list-style: none;
+   color: white;
+   flex-direction: column;
+   left: 37rem;
+}
+.footer .list li:hover {
+  color: rgba(255, 255, 255, 0.9);
+  text-decoration: underline;
+  cursor: pointer;
+}
+.footer .list2 {
+  left: 52rem;
+}
+.footer .copy {
+  position: absolute;
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 12px;
+  right: 5rem;
+  top: 27rem;
+}
+ 
